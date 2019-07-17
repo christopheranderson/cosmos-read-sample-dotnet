@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosReadTest", "CosmosReadTest\CosmosReadTest.csproj", "{CF44B8E3-39EC-471F-90C5-553B8558A95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF44B8E3-39EC-471F-90C5-553B8558A95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF44B8E3-39EC-471F-90C5-553B8558A95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF44B8E3-39EC-471F-90C5-553B8558A95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF44B8E3-39EC-471F-90C5-553B8558A95D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B1537A-03C4-442E-977D-49DA6C22CD9D}
+	EndGlobalSection
+EndGlobal
